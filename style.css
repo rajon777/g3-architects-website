@@ -276,7 +276,7 @@ main{
 }
 @media screen and (max-width:850px) {
         .team-container
-        .sponsors-img-container{
+        {
             flex-direction: column;
         }
         .Experience-section{
